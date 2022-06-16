@@ -1,0 +1,17 @@
+name: Lobby
+version: '${project.version}'
+main: net.redbee.lobby.Lobby
+
+commands:
+  fly:
+    usage: /fly
+  gmc:
+    usage: /gmc
+  gms:
+    usage: /gms
+  gma:
+    usage: /gma
+  gmsp:
+    usage: /gmsp
+  core:
+    usage: /core
